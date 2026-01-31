@@ -1,4 +1,4 @@
-# cecl-market-stress-analysis
+
 # CECL, Market Stress, and Credit Loss Recognition
 
 ## Overview
